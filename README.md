@@ -4,7 +4,7 @@
 
 UberRoute is an avant-garde solution developed for the Uber Hackathon. Designed to revolutionize urban transit planning, this application seamlessly integrates the precision of geohashes with modern web technologies to offer users unparalleled accuracy and efficiency in transit recommendations.
 
-## Project Vision
+## Project Vision 
 
 In an era where time is of the essence, efficient transit is paramount. UberRoute was birthed from the vision of simplifying urban navigation, ensuring predictability, efficiency, and user-centricity. Whether it's the daily commute, a city-wide excursion, or coordinating with ridesharing platforms like Uber, UberRoute stands out as the beacon for optimal route suggestions.
 
@@ -22,7 +22,7 @@ Crafted with React, UberRoute's frontend is a testament to modern web design pri
   
 - **React**: A JavaScript library for building user interfaces. It powers our dynamic and responsive frontend, ensuring a seamless user experience.
   
-- **Geohash**: A system used for encoding geographic coordinates (latitude and longitude) into a short string of letters and digits. It's the heart of our route recommendation system.
+- **Google Maps API** An API Token from Google to display map on the website
   
 - **Django Rest Framework**: A powerful and flexible toolkit for building Web APIs, ensuring our backend and frontend communicate seamlessly.
   
