@@ -4,7 +4,7 @@
 
 UberRoute is an avant-garde solution developed for the Uber Hackathon. Designed to revolutionize urban transit planning, this application seamlessly integrates the precision of geohashes with modern web technologies to offer users unparalleled accuracy and efficiency in transit recommendations.
 
-## Project Vision 
+## Project Vision  
 
 In an era where time is of the essence, efficient transit is paramount. UberRoute was birthed from the vision of simplifying urban navigation, ensuring predictability, efficiency, and user-centricity. Whether it's the daily commute, a city-wide excursion, or coordinating with ridesharing platforms like Uber, UberRoute stands out as the beacon for optimal route suggestions.
 
