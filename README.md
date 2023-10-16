@@ -9,7 +9,7 @@ UberRoute is an avant-garde solution developed for the Uber Hackathon. Designed 
 In an era where time is of the essence, efficient transit is paramount. UberRoute was birthed from the vision of simplifying urban navigation, ensuring predictability, efficiency, and user-centricity. Whether it's the daily commute, a city-wide excursion, or coordinating with ridesharing platforms like Uber, UberRoute stands out as the beacon for optimal route suggestions.
 
 ## Core Features
-
+ 
 ### Geohash-based Recommendations 
 UberRoute's core is powered by its geohash-based routing algorithm. Geohashes, a system of representing geographical locations with incredible accuracy, allow UberRoute to swiftly analyze extensive transit data. This ensures users are presented with the most efficient route suggestions in a blink.
 
